@@ -7,4 +7,5 @@ https://plutus-pioneer-program.readthedocs.io/en/latest/pioneer/week1.html#to-th
 ## About Plutus 
 https://docs.cardano.org/plutus/learn-about-plutus
 
-## Plutus Lib Help Doc
+## Combined documentation for all the public Plutus libraries
+https://playground.plutus.iohkdev.io/doc/haddock/
